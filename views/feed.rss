@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Gewoon boef - Artikelen</title>
+    <link>http://23136.hosts.ma-cloud.nl/school/p1.4/bap/opdracht_bovi/index.php?page=home</link>
+    <description>Een webpagina waar de allerlaatste artikelen over boef staan</description>
+    <language>nl-nl</language>
+    <managingEditor>menouer002@hotmail.nl</managingEditor>
+    <webMaster>menouer002@hotmail.nl</webMaster>
+    <copyright>Menouer Nobach</copyright>
+    <image>
+      <title>Gewoon boef - Artikelen</title>
+      <link>http://23136.hosts.ma-cloud.nl/school/p1.4/bap/opdracht_bovi/index.php?page=home</link>
+      <url>https://video-images.vice.com/articles/58cbf3e57bc6146cdeb003ac/lede/1489761259560-Screen-Shot-2017-03-17-at-152926.png?crop=0.8005590496156534xw:1xh;center,center&amp;resize=1050:*</url>
+      <width>200</width>
+      <height>200</height>
+    </image>
+    <item>
+      <title>&lt;new&gt;</title>
+      <pubDate>Fri, 16 Jun 2017 16:43:07 +0200</pubDate>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
